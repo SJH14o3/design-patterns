@@ -8,6 +8,7 @@ current available patterns are:
 - Composite
 - Decorator
 - State
+- Strategy
 
 ## Mediator Pattern Problems
 ### Aircraft Control
@@ -51,3 +52,8 @@ border.
 Let say we have a class that its initial state is color blue.
 changing state from blue color will result in color green.
 green to pink, pink to red and red to blue.
+
+## Strategy Problem
+A class wants to decide at run-time what algorithm it
+should use to sort an array. Many different sort algorithms are
+already available.
