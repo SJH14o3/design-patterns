@@ -9,6 +9,11 @@ current available patterns are:
 - Decorator
 - State
 - Strategy
+- Builder
+
+Some larger problem that uses multiple patterns are also available. They include:
+- a turned based combat game similar to Dungeons & Dragons,
+solved with builder, decorator, state and strategy patterns.
 
 ## Mediator Pattern Problems
 ### Aircraft Control
