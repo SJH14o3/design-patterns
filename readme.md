@@ -10,8 +10,9 @@ current available patterns are:
 - State
 - Strategy
 - Builder
+- Chain of Responsibility
 
-Some larger problem that uses multiple patterns are also available. They include:
+Some larger problems that use multiple patterns are also available. They include:
 - a turned based combat game similar to Dungeons & Dragons,
 solved with builder, decorator, state and strategy patterns.
 
@@ -66,5 +67,8 @@ already available.
 ## Builder Problem
 There are two cars.
 We have a jeep and a nissan.
-These cars parts have different attributes.
+These car parts have different attributes.
 Create two builders for each car.
+
+## Other Patterns
+Remaining patterns contain a **"problem.md"** that explained the problem.
