@@ -14,6 +14,7 @@ current available patterns are:
 - Prototype
 - Bridge
 - Facade
+- Flyweight
 
 Some larger problems that use multiple patterns are also available. They include:
 - a turned based combat game similar to Dungeons & Dragons,
