@@ -15,6 +15,9 @@ current available patterns are:
 - Bridge
 - Facade
 - Flyweight
+- factory method
+- abstract factory
+- adapter (object)
 
 Some larger problems that use multiple patterns are also available. They include:
 - a turned based combat game similar to Dungeons & Dragons,
