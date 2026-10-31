@@ -18,6 +18,7 @@ current available patterns are:
 - factory method
 - abstract factory
 - adapter (object)
+- proxy
 
 Some larger problems that use multiple patterns are also available. They include:
 - a turned based combat game similar to Dungeons & Dragons,
