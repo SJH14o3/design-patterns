@@ -1,7 +1,0 @@
-package com.sjh14o3.bridge.problem
-
-class EmailSender: NotificationSender {
-    override fun deliver(n: Notification) {
-        println("Notification $n delivered with Email")
-    }
-}
